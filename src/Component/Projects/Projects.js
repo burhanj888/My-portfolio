@@ -15,7 +15,7 @@ const ProjectsSection = () => {
             {projectsData.map((project, index) => (
                 <Col xs={12} sm={6} md={6} lg={3} key={index} className="mb-4">
                     <Card className="project-card">
-                        <Card.Img variant="top" src={project.image} alt={project.title} className="project-image"/>
+                        <Card.Img variant="top" src={require(`../../images/${project.image}`)} alt={project.title} className="project-image"/>
                         <Card.Body>
                             <Card.Title className="project-title">{project.title}</Card.Title>
                             <Card.Text className="project-description">{project.description}</Card.Text>

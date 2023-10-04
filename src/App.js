@@ -17,23 +17,7 @@ function App() {
         <Route path='/' element={<Portfolio></Portfolio>}></Route>
       </Routes>
     </Router>
-    // <div>
-    //   <CenteredHello></CenteredHello>
-    //   <StickyNavbar></StickyNavbar>
-    //   <Container fluid>
-    //   <Row>
-    //     <Col md={3} className="sidebar pt-5">
-    //       <Profile />
-    //     </Col>
-    //     <Col md={9} className="scrollable-content pt-5">
-    //       <ComponentA />
-          
-    //     </Col>
-    //   </Row>
-    // </Container>
-      
-      
-    // </div>
+    
   );
 }
 

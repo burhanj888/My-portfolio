@@ -26,7 +26,7 @@ const AboutMe = () => {
     <Col xs={12} md={6} className="education-entry">
         <Row>
             <Col xs={4} md={3}>
-                <img src="NU Logo.png" alt="Northeastern University Logo" className="img-fluid university-logo" />
+                <img src={require("../../images/NU Logo.png")} alt="Northeastern University Logo" className="img-fluid university-logo" />
             </Col>
             <Col xs={8} md={9}>
                 <h4 className="education-title"><strong>Master of Science in Information Systems</strong></h4>
@@ -41,7 +41,7 @@ const AboutMe = () => {
     <Col xs={12} md={6} className="education-entry">
         <Row>
             <Col xs={4} md={3}>
-                <img src="BIT.png" alt="Birla Institute of Technology Logo" className="img-fluid university-logo" />
+                <img src={require("../../images/BIT.png")} alt="Birla Institute of Technology Logo" className="img-fluid university-logo" />
             </Col>
             <Col xs={8} md={9}>
                 <h4 className="education-title"><strong>Bachelor of Computer Applications</strong></h4>
@@ -63,7 +63,7 @@ const AboutMe = () => {
       {skillsData.map((skill, index) => (
         <Col xs={4} md={3} lg={2} key={index} className="mb-2">
           <Card className="skill-card text-center">
-            <Card.Img variant="top" src={skill.icon} className="skill-icon"/>
+            <Card.Img variant="top" src={require(`../../images/${skill.icon}`)} className="skill-icon"/>
             <Card.Body>
               <Card.Title className="skill-title">{skill.name}</Card.Title>
             </Card.Body>

@@ -8,7 +8,7 @@ import './Sidebar.css'
 function Profile() {
   return (
     <div className="d-flex flex-column align-items-center mt-5" id='me'>
-      <Image src="Profile picture.png" roundedCircle width={200} />
+      <Image src={require("../../images/Profile picture.png")} roundedCircle width={200} />
       <h4 className="mt-3 mb-2">Burhanuddin Jinwala</h4>
       <div className="mt-5">
       <div className="badge-wrapper">

@@ -15,7 +15,7 @@ const WorkExperience = () => {
       <Col xs={12} md={12} lg={12} key={index} className="mb-4 work-block">
         <Row>
             <Col xs={11} md={3} lg={3} className='ms-4 d-flex align-items-center justify-content-center'>
-            <img src={exp.companyIcon} alt={exp.company} className="company-icon img-fluid"/>
+            <img src={require(`../../images/${exp.companyIcon}`)} alt={exp.company} className="company-icon img-fluid"/>
             </Col>
             <Col xs={12} md={8} lg={8}>
             <div className="ms-4 me-4 text-section">
