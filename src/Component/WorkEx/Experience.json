@@ -1,0 +1,19 @@
+[
+    {
+      "companyIcon": "varanyam.png",
+      "position": "Co-Founder and Tech Lead",
+      "company": "Varanyam Technologies",
+      "timeline": "2020-2022",
+      "points": [
+
+        "Co-founded an innovative IT startup, guiding the company's vision and strategy while building high quality applications and managing a cross-functional tech team to work in fast-paced environment.",
+        "Developed a comprehensive B2B e-commerce web application, enhancing user experience and streamlining the online quotation process, resulting in 30% increase in orders.",
+        "Spearheaded the design and development of a prototype for a social community web application to glean market insights about creator economy.",
+        "Strategically drove the adoption and implementation of a microservices architecture, leveraging the Agile Scrum framework, RESTful web services to to enhance software development processes and delivery."
+      ],
+      "skills": ["Startup", "Leadership", "Entrepreneurship","Python", "Javascript", "SQL","RESTful APIs", "Django", "PostgreSQL", "Web development","Agile","React.js", "Node.js","Express.js", "MongoDB", "CI/CD"]
+    }
+  ]
+  
+
+  

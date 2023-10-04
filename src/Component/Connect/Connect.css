@@ -1,0 +1,37 @@
+/* ConnectWithMe.css */
+
+.connect-with-me-section {
+ 
+    padding: 50px 15px;
+    text-align: center;
+}
+
+.connect-header {
+    font-size: 36px;
+    color: #343a40; /* Dark grey text */
+    margin-bottom: 20px;
+}
+
+.connect-subheader {
+    font-size: 18px;
+    color: #6c757d; /* Medium grey text */
+    margin-bottom: 40px;
+}
+
+.social-links a {
+    
+    color: #1b7952; /* Grey text for links */
+    text-decoration: none;
+    margin-bottom: 20px;
+    display: inline-block;
+    font-size: large;
+}
+
+.social-links a:hover {
+    color: #27a872; /* Blue color on hover */
+}
+
+.social-links .social-text {
+    margin-top: 10px;
+    font-size: 16px;
+}

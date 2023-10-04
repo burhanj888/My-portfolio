@@ -1,0 +1,45 @@
+[
+    {
+      "image": "dollar dashboard.jpg",
+      "title": "Dollar Dashboard",
+      "description": "Navigate your finances with ease using our full-stack Expense Tracker - your digital companion for effortless expenditure management and insightful visual tracking! ",
+      "skills": ["Javascript","React", "Node.js","Express.js", "MongoDB", "GitHub", "VSCode", "Postman"],
+      "githubLink": "https://github.com/kskeerthana/DollarDashboard"
+    },
+    {
+        "image": "dutch auction.jpg",
+        "title": "NFT Dutch Auction",
+        "description": "Explore a seamless NFT trading experience with our auction platform, utilizing the Dutch Auction method to optimize server load and dynamically determine prices through real-time market demand!",
+        "skills": ["Solidity","Hardhat","IPFS","Typescript","React", "Remix", "Openzeppelin", "Chai"],
+        "githubLink": "https://github.com/burhanj888/Dutch-Auction"
+      },
+      {
+        "image": "deforms.jpg",
+        "title": "Deforms",
+        "description": "Unlock rewards by sharing your insights on our survey platform, where your opinions pave the way to enhanced user engagement and collective knowledge-building!",
+        "skills": ["Java", "MySQL", "Swing", "GitHub", "Net Beans"],
+        "githubLink": "https://github.com/aravind33b/AEDFinalProject"
+      },
+      {
+        "image": "uniswap.jpeg",
+        "title": "Uniswap V3 update",
+        "description": "Experience the upgraded efficiency and flexibility with our transition from Uniswap V2 to Uniswap V3, enhancing your decentralized trading with improved liquidity management and optimal token swapping.",
+        "skills": ["Solidity", "Foundry", "Typescript"],
+        "githubLink": "https://github.com/burhanj888/INFO7500-Final"
+      },
+      {
+        "image": "bitcart.jpg",
+        "title": "BitCart",
+        "description": "Embark on a student-focused shopping journey with our e-commerce platform, tailored to meet all your academic and lifestyle needs with exclusive deals and offerings!",
+        "skills": ["PHP", "Javascript", "JQuery", "HTML", "CSS"],
+        "githubLink": "https://github.com/burhanj888/bitcart"
+      },
+      {
+        "image": "job search.jpg",
+        "title": "Job Database System",
+        "description": "Streamline your hiring journey with our robust database system, crafted to efficiently manage, analyze, and connect talent pools directly to your recruitment needs!",
+        "skills": ["PL/SQL", "Oracle"],
+        "githubLink": "https://github.com/AbhishekJaiswal1810/Job_Mangement_System"
+      }
+    
+]

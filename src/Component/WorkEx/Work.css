@@ -1,0 +1,57 @@
+.work-experience-section {
+    color: #4a4a4a;
+}
+
+.company-icon {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
+.work-block {
+    /* display: flex; */
+    align-items: start;
+    gap: 15px;
+}
+
+.header-section {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.position-title {
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.timeline {
+    font-style: italic;
+    color: #777;
+}
+
+.company-name {
+    font-weight: 500;
+    margin: 5px 0 15px 0;
+}
+
+.work-points {
+    list-style-type: circle;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.skills-chips {
+    margin-top: 15px;
+    margin-right: 5px;
+    border-radius: 50%;
+}
+
+.skill-chip {
+    margin: 0 5px 5px 0;
+    padding: 5px 10px;
+    background-color: #2C3E50;
+    color: #f8f8f8;
+    border-radius: 15px;
+}

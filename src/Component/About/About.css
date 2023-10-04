@@ -1,0 +1,109 @@
+.about-me-section {
+    padding: 2rem 0;
+  }
+  
+  .intro-section h2 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .intro-section p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+
+ 
+
+
+
+.display-4 {
+    
+    font-weight: bold; /* Bold font weight */
+    color: #2C3E50; /* Dark blueish color */
+}
+
+.display-3 {
+    font-size: 3.5vw;
+    font-weight: bold; /* Bold font weight */
+    color: #2C3E50; /* Dark blueish color */
+}
+
+.intro-heading {
+    color: #34495E; /* Slightly lighter blue color */
+}
+
+.intro-text {
+    font-size: 2rem;
+    color: #555;
+    line-height: 1.6; /* Improved readability */
+}
+
+.education-section {
+    text-align: center;
+}
+
+.education-entry {
+    text-align: left;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.university-logo {
+    width: 100%;
+    max-width: 100px;
+    margin-right: 20px;
+}
+
+.education-title {
+    margin-bottom: 10px;
+}
+
+.education-text {
+    margin: 0;
+}
+
+.date-text {
+    color: #777;
+}
+
+
+  
+  .education-section, .skills-section {
+    /* border-top: 1px solid #eee; */
+    padding-top: 2rem;
+  }
+  
+  .skills-section {
+    color: #4a4a4a;
+}
+
+.skills-heading {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #2C3E50;
+}
+
+.skill-card {
+    border: none;
+    background: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.skill-card:hover {
+    transform: scale(1.05);
+}
+
+.skill-icon {
+    width: 60px; /* or the size you want */
+    height: 60px; /* same as width for square aspect ratio */
+    margin: 1vw auto; /* centering */
+    object-fit: contain; /* preserve aspect ratio without clipping */
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: small;
+    /* margin-top: 1vw; */
+}

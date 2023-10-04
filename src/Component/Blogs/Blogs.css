@@ -1,0 +1,22 @@
+.blog-section {
+    padding: 80px 0;
+    color: #333;
+}
+
+.blog-section .display-4 {
+    font-weight: bold;
+    margin-bottom: 20px; /* Space between heading and "Coming Soon" text */
+}
+
+.coming-soon {
+    font-size: 2rem; /* Slightly larger than regular text for emphasis */
+    font-weight: 600; /* Slightly bolder font for emphasis */
+    color: #e44d26; /* Orange-ish color for attention */
+}
+
+/* Responsive design adjustments */
+@media (max-width: 576px) {
+    .coming-soon {
+        font-size: 1.5rem; /* Adjust size for small screens */
+    }
+}

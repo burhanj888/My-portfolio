@@ -1,0 +1,52 @@
+[
+    {
+      "icon": "js.png",
+      "name": "Javascript"
+    },
+    {
+      "icon": "python.png",
+      "name": "Python"
+    },
+    {
+        "icon": "java.png",
+        "name": "Java"
+    },
+    {
+        "icon": "swift.png",
+        "name": "Swift"
+      },
+      {
+        "icon": "Solidity-Logo.png",
+        "name": "Solidity"
+      },
+      {
+        "icon": "sql.png",
+        "name": "SQL"
+      },
+      {
+        "icon": "logo192.png",
+        "name": "React.js"
+      },
+      {
+        "icon": "node.png",
+        "name": "Node.js"
+      },
+      {
+        "icon": "Expressjs.png",
+        "name": "Express.js"
+      },
+      {
+        "icon": "mongodb.png",
+        "name": "MongoDB"
+      },
+      {
+        "icon": "django.png",
+        "name": "Django"
+      },
+      {
+        "icon": "nextjs.png",
+        "name": "Next.js"
+      }
+    
+  ]
+  

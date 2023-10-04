@@ -1,24 +1,39 @@
+import CenteredHello from './Component/Hero/Hero';
+import StickyNavbar from './Component/Navbar/StickyNavbar';
 import logo from './logo.svg';
-import './App.css';
+import { Container, Row, Col } from 'react-bootstrap';
+// import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Profile from './Component/ProfileSidebar/Sidebar';
+// import ComponentA from './Component/About/About';
+import 'font-awesome/css/font-awesome.min.css';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Portfolio from './Portfolio';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Routes>
+        <Route path='/' element={<Portfolio></Portfolio>}></Route>
+      </Routes>
+    </Router>
+    // <div>
+    //   <CenteredHello></CenteredHello>
+    //   <StickyNavbar></StickyNavbar>
+    //   <Container fluid>
+    //   <Row>
+    //     <Col md={3} className="sidebar pt-5">
+    //       <Profile />
+    //     </Col>
+    //     <Col md={9} className="scrollable-content pt-5">
+    //       <ComponentA />
+          
+    //     </Col>
+    //   </Row>
+    // </Container>
+      
+      
+    // </div>
   );
 }
 
