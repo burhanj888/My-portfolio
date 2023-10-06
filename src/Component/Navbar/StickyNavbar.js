@@ -12,7 +12,7 @@ function StickyNavbar() {
     return (
         <Navbar expand="lg" sticky="top" className="navbar">
             <Container>
-            <Navbar.Brand href="#home" className="navbar-brand">My Portfolio</Navbar.Brand>
+            <Navbar.Brand href="#" className="navbar-brand">My Portfolio</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="navbar-center">
