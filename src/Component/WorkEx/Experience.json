@@ -1,7 +1,7 @@
 [
     {
       "companyIcon": "varanyam.png",
-      "position": "Co-Founder and Tech Lead",
+      "position": "Co-Founder and CTO",
       "company": "Varanyam Technologies",
       "timeline": "2020-2022",
       "points": [
@@ -12,6 +12,20 @@
         "Strategically drove the adoption and implementation of a microservices architecture, leveraging the Agile Scrum framework, RESTful web services to to enhance software development processes and delivery."
       ],
       "skills": ["Startup", "Leadership", "Entrepreneurship","Python", "Javascript", "SQL","RESTful APIs", "Django", "PostgreSQL", "Web development","Agile","React.js", "Node.js","Express.js", "MongoDB", "CI/CD"]
+    },
+    {
+      "companyIcon": "portalys.png",
+      "position": "Full Stack Developer",
+      "company": "Portalys Inc.",
+      "timeline": "2023-Present",
+      "points": [
+
+        "Engineered a feature integrating Node.js and React.js with PassKit-Generator, enabling users to add tickets to Apple and Google wallets, which simplified access and reduced ticket retrieval time by over 30%.",
+        "Collaborated with team to build React-Native cross-platform scanner mobile app to expedite entry processes in clubs, slashing average admission time by streamlining the check-in procedure.",
+        "Implemented two token-based authentication mechanisms using JWT, resulting in seamless user experience and enhanced security.",
+        "Revamped and optimized Node.js API backend code, significantly enhancing performance and maintainability."
+      ],
+      "skills": ["Startup", "Backend", "Frontend", "Database", "React.js", "Node.js", "JavaScript", "TypeScript", "MySQL", "TypeORM", "RESTful APIs", "Web development", "React-Native", "Agile","Express.js", "JWT", "GitHub", "Git", "CI/CD", "Docker", "AWS", "SendGrid", "Twillio", "Stripe", "HubSpot", "Solidity", "Smart Contracts", "ERC721", "NFTs", "Apple Wallet", "Google Wallet", "PassKit", "APNS", "Webhook", "JIRA", "Collaboration", "Problem Solving", "Communication"]
     }
   ]
   

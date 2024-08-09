@@ -1,5 +1,33 @@
 [
     {
+      "image": "jinai.png",
+      "title": "JinAI",
+      "description": "Boost your productivity with an AI-powered desktop assistant that handles daily tasks through simple voice commands—whether it's generating code, opening apps, or playing your favorite tunes.",
+      "skills": ["Python","OpenAI", "Artificial Intelligence","GenAI", "Speech Recognition", "Google Speech"],
+      "githubLink": "https://github.com/burhanj888/JinAI"
+    },
+    {
+      "image": "bookchain.png",
+      "title": "BookChain",
+      "description": "Revolutionize book borrowing with a Go-powered blockchain, ensuring secure, transparent, and tamper-proof library transactions.",
+      "skills": ["Go", "Blockchain", "Gorilla Mux", "MySQL", "RESTful APIs"],
+      "githubLink": "https://github.com/burhanj888/BookChain"
+    },
+    {
+      "image": "xnark.png",
+      "title": "XNARC",
+      "description": "Expose corruption safely with our Zero-Knowledge Proofs platform—reveal the truth, stay anonymous, and protect yourself while making a difference.",
+      "skills": ["Circom", "Solidity", "IPFS", "Javascript","React", "Crypto.js", "GitHub", "Ether.js", "OpenCV"],
+      "githubLink": "https://github.com/burhanj888/INFO7520-FinalProject-XNARC"
+    },
+    {
+      "image": "cryft.png",
+      "title": "Cryft",
+      "description": "An \"Ideal\" mobile app that simplifies secure cross-border payments with fast transactions, easy QR codes, and effortless cryptocurrency management—no more delays or complexities.",
+      "skills": ["Swift", "SwiftUI", "Firebase", "Metamask SDK", "iOS"],
+      "githubLink": "https://github.com/burhanj888/Cryft-Wallet"
+    },
+    {
       "image": "dollar dashboard.jpg",
       "title": "Dollar Dashboard",
       "description": "Navigate your finances with ease using our full-stack Expense Tracker - your digital companion for effortless expenditure management and insightful visual tracking! ",
