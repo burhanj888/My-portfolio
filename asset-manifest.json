@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.5e7047bd.css",
-    "main.js": "/static/js/main.8680e32f.js",
+    "main.js": "/static/js/main.b2675c0c.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/dollar dashboard.jpg": "/static/media/dollar dashboard.b47e0253d3ff16b2ec1d.jpg",
     "static/media/dutch auction.jpg": "/static/media/dutch auction.02a5ff6e5363706c3568.jpg",
     "static/media/deforms.jpg": "/static/media/deforms.c9a86948aff1448a3015.jpg",
+    "static/media/bookchain.png": "/static/media/bookchain.f85adb995b8b32200cd3.png",
+    "static/media/jinai.png": "/static/media/jinai.4a3a7dbdcad15c037c26.png",
     "static/media/job search.jpg": "/static/media/job search.3db9bd5cb23ba2b26e79.jpg",
     "static/media/bitcart.jpg": "/static/media/bitcart.0e4e11c48131db1091fd.jpg",
+    "static/media/cryft.png": "/static/media/cryft.c330f2ce0d2dd492a795.png",
     "static/media/uniswap.jpeg": "/static/media/uniswap.b82afad6e0f10b08428c.jpeg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Profile picture copy.png": "/static/media/Profile picture copy.427415d921b26ddb0532.png",
@@ -15,13 +18,14 @@
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/BIT.png": "/static/media/BIT.7be75dfe73f8c30b7265.png",
+    "static/media/xnark.png": "/static/media/xnark.0ebc726e0b870e2625ea.png",
     "static/media/NU Logo.png": "/static/media/NU Logo.b23cb0dd9d4e456d88a4.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/mongodb.png": "/static/media/mongodb.3a364684503a40b5fbb2.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/Solidity-Logo.png": "/static/media/Solidity-Logo.b32c789b18f1868ebb5c.png",
-    "static/media/Full stack Burhanuddin Jinwala.pdf": "/static/media/Full stack Burhanuddin Jinwala.9cc1a24ab290cdf8ec04.pdf",
     "static/media/nextjs.png": "/static/media/nextjs.e0cc548b52ed71c83731.png",
+    "static/media/portalys.png": "/static/media/portalys.8ed98ddf963ea0ea532a.png",
     "static/media/varanyam.png": "/static/media/varanyam.62a976cd9ccade75aab2.png",
     "static/media/node.png": "/static/media/node.007e99f68b718e476aba.png",
     "static/media/java.png": "/static/media/java.ddf8676bd569fe01ab44.png",
@@ -31,11 +35,11 @@
     "static/media/python.png": "/static/media/python.04ddea1b43164f05b756.png",
     "index.html": "/index.html",
     "main.5e7047bd.css.map": "/static/css/main.5e7047bd.css.map",
-    "main.8680e32f.js.map": "/static/js/main.8680e32f.js.map",
+    "main.b2675c0c.js.map": "/static/js/main.b2675c0c.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e7047bd.css",
-    "static/js/main.8680e32f.js"
+    "static/js/main.b2675c0c.js"
   ]
 }
