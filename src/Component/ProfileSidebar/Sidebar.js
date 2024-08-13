@@ -12,7 +12,7 @@ function Profile() {
       <h4 className="mt-3 mb-2">Burhanuddin Jinwala</h4>
       <div className="mt-5">
       <div className="badge-wrapper">
-          <a href="Full stack Burhanuddin Jinwala.pdf" download="resume_Burhanuddin_Jinwala" target="_blank" className="badge-custom">
+          <a href="Software engineering Burhanuddin Jinwala.pdf" download="resume_Burhanuddin_Jinwala" target="_blank" className="badge-custom">
             <i className="fa fa-download badge-icon"></i>
             Resume
           </a>
